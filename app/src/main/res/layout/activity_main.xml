@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+>
+
+<yanshao.com.yanscrollview.YanScrollView
+    android:id="@+id/yanscroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="是秋了，乱红飞处。\n　　
+　　叹一曲，秋华惊梦。到底是，满目落英正纷纷。\n
+　　
+　　古城的城墙根下，泛着青灰色的烟水。弥漫在初秋的清凉里，翻动之间，就是千年，古城一直不变。\n
+    我也想成为一座古城，无论经历风雨沧桑，无论经历几度辉煌，一直一直，是一副不惊的模样。终究是不能啊，会有离别的忧伤，会有快乐的欢唱，会有莞尔的美丽，会有低沉的回望。
+　　
+　　我数着脚下的青砖，最是那一低头的温柔。\n
+    留住了多少岁月的斑驳，才会有沉甸甸的颔首。很多时候，我们都不会停留，赶路。\n
+    就是想尽快的走完这一生的路程，争着，吵着，不甘寂寞。\n
+　　
+　　我依然喜欢坐在落日里，我依然喜欢走在青砖上，我依然喜欢写一些自己的文字。\n
+    就像这秋天里的古城，不动，无声，看着尘世里的炊烟滚滚。就像这初秋下的光阴，不凉，也不燥。\n
+　　
+　　不做离人，不忘初心。\n
+　　
+　　日月简静，不曾扰古城。\n
+　　
+　　是秋了，风起，叶落，花开半世，心落半尘。\n"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="    是秋了，乱红飞处。\n　　
+　　叹一曲，秋华惊梦。到底是，满目落英正纷纷。\n
+　　
+　　古城的城墙根下，泛着青灰色的烟水。弥漫在初秋的清凉里，翻动之间，就是千年，古城一直不变。\n
+    我也想成为一座古城，无论经历风雨沧桑，无论经历几度辉煌，一直一直，是一副不惊的模样。终究是不能啊，会有离别的忧伤，会有快乐的欢唱，会有莞尔的美丽，会有低沉的回望。
+　　
+　　我数着脚下的青砖，最是那一低头的温柔。\n
+    留住了多少岁月的斑驳，才会有沉甸甸的颔首。很多时候，我们都不会停留，赶路。\n
+    就是想尽快的走完这一生的路程，争着，吵着，不甘寂寞。\n
+　　
+　　我依然喜欢坐在落日里，我依然喜欢走在青砖上，我依然喜欢写一些自己的文字。\n
+    就像这秋天里的古城，不动，无声，看着尘世里的炊烟滚滚。就像这初秋下的光阴，不凉，也不燥。\n
+　　
+　　不做离人，不忘初心。\n
+　　
+　　日月简静，不曾扰古城。\n
+　　
+　　是秋了，风起，叶落，花开半世，心落半尘。\n\n\n\n\n"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="      是秋了，乱红飞处。\n　　
+　　叹一曲，秋华惊梦。到底是，满目落英正纷纷。\n
+　　
+　　古城的城墙根下，泛着青灰色的烟水。弥漫在初秋的清凉里，翻动之间，就是千年，古城一直不变。\n
+    我也想成为一座古城，无论经历风雨沧桑，无论经历几度辉煌，一直一直，是一副不惊的模样。终究是不能啊，会有离别的忧伤，会有快乐的欢唱，会有莞尔的美丽，会有低沉的回望。
+　　
+　　我数着脚下的青砖，最是那一低头的温柔。\n
+    留住了多少岁月的斑驳，才会有沉甸甸的颔首。很多时候，我们都不会停留，赶路。\n
+    就是想尽快的走完这一生的路程，争着，吵着，不甘寂寞。\n
+　　
+　　我依然喜欢坐在落日里，我依然喜欢走在青砖上，我依然喜欢写一些自己的文字。\n
+    就像这秋天里的古城，不动，无声，看着尘世里的炊烟滚滚。就像这初秋下的光阴，不凉，也不燥。\n
+　　
+　　不做离人，不忘初心。\n
+　　
+　　日月简静，不曾扰古城。\n
+　　
+　　是秋了，风起，叶落，花开半世，心落半尘。\n\n\n\n\n"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="      是秋了，乱红飞处。\n　　
+　　叹一曲，秋华惊梦。到底是，满目落英正纷纷。\n
+　　
+　　古城的城墙根下，泛着青灰色的烟水。弥漫在初秋的清凉里，翻动之间，就是千年，古城一直不变。\n
+    我也想成为一座古城，无论经历风雨沧桑，无论经历几度辉煌，一直一直，是一副不惊的模样。终究是不能啊，会有离别的忧伤，会有快乐的欢唱，会有莞尔的美丽，会有低沉的回望。
+　　
+　　我数着脚下的青砖，最是那一低头的温柔。\n
+    留住了多少岁月的斑驳，才会有沉甸甸的颔首。很多时候，我们都不会停留，赶路。\n
+    就是想尽快的走完这一生的路程，争着，吵着，不甘寂寞。\n
+　　
+　　我依然喜欢坐在落日里，我依然喜欢走在青砖上，我依然喜欢写一些自己的文字。\n
+    就像这秋天里的古城，不动，无声，看着尘世里的炊烟滚滚。就像这初秋下的光阴，不凉，也不燥。\n
+　　
+　　不做离人，不忘初心。\n
+　　
+　　日月简静，不曾扰古城。\n
+　　
+　　是秋了，风起，叶落，花开半世，心落半尘。\n"
+            />
+    </LinearLayout>
+
+</yanshao.com.yanscrollview.YanScrollView>
+</RelativeLayout>
